@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Ains-Portfolio/static/css/main.dc477d64.css",
+    "main.js": "/Ains-Portfolio/static/js/main.0ce1b215.js",
+    "static/js/787.8c605046.chunk.js": "/Ains-Portfolio/static/js/787.8c605046.chunk.js",
+    "static/media/me.png": "/Ains-Portfolio/static/media/me.821ecddcb9953b46bf75.png",
+    "static/media/me-about.jpg": "/Ains-Portfolio/static/media/me-about.fb4452e7f286d3636ef9.jpg",
+    "static/media/portfolio5.png": "/Ains-Portfolio/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/portfolio2.jpg": "/Ains-Portfolio/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/portfolio6.jpg": "/Ains-Portfolio/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/portfolio1.jpg": "/Ains-Portfolio/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
+    "static/media/portfolio3.jpg": "/Ains-Portfolio/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/portfolio4.jpg": "/Ains-Portfolio/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "static/media/cv.pdf": "/Ains-Portfolio/static/media/cv.15f39889edccafb1d174.pdf",
+    "index.html": "/Ains-Portfolio/index.html",
+    "main.dc477d64.css.map": "/Ains-Portfolio/static/css/main.dc477d64.css.map",
+    "main.0ce1b215.js.map": "/Ains-Portfolio/static/js/main.0ce1b215.js.map",
+    "787.8c605046.chunk.js.map": "/Ains-Portfolio/static/js/787.8c605046.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc477d64.css",
+    "static/js/main.0ce1b215.js"
+  ]
+}
